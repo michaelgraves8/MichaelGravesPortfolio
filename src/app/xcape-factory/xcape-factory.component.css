@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    position: absolute;
+    left: 30%;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+
+.back-button {
+    position: absolute;
+    left: 45%;
+    bottom: 3%;
+}
+
+.site-button {
+    position: absolute;
+    left: 55%;
+    bottom: 3%;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}

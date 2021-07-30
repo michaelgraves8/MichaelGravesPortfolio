@@ -1,0 +1,7 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+ 
+ .link {
+     text-align: center;
+    text-decoration: none;
+    color: black;
+}

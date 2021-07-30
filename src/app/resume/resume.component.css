@@ -1,0 +1,27 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+.resume-button {
+    text-decoration: none;
+}
+
+button {
+    position: absolute;
+    left: 45%;
+}
+
+.resume {
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    /* text-align: center; */
+    /* position: relative;
+    left: 20%; */
+}
